@@ -1,0 +1,50 @@
+Change Component Footprint: Designator=C47 Old Footprint=CAPAE110103X127M New Footprint=RADIAL-2_6.3MMX7.7MM
+Change Component Footprint: Designator=C51 Old Footprint=CAPAE110103X127M New Footprint=RADIAL-2_6.3MMX7.7MM
+Change Component Footprint: Designator=C55 Old Footprint=RADIAL-2_8MMX10MM New Footprint=RADIAL-2_6.3MMX7.7MM
+Change Component Footprint: Designator=C56 Old Footprint=RADIAL-2_8MMX10MM New Footprint=RADIAL-2_6.3MMX7.7MM
+Change Component Footprint: Designator=C57 Old Footprint=RADIAL-2_8MMX10MM New Footprint=RADIAL-2_6.3MMX7.7MM
+Change Component Comment : Designator=C55 Old Comment=CAP_100uF_20%_35V_SMD_ALUM New Comment=CAP_100uF_%20_25V_ALUM_SMD
+Change Component Comment : Designator=C56 Old Comment=CAP_100uF_20%_35V_SMD_ALUM New Comment=CAP_100uF_%20_25V_ALUM_SMD
+Change Component Comment : Designator=C57 Old Comment=CAP_100uF_20%_35V_SMD_ALUM New Comment=CAP_100uF_%20_25V_ALUM_SMD
+Change Component Comment : Designator=C47 Old Comment=CAP_100uF_20%_63V_SMD_ALUM POLY New Comment=CAP_100uF_%20_25V_ALUM_SMD
+Change Component Comment : Designator=C51 Old Comment=CAP_100uF_20%_63V_SMD_ALUM POLY New Comment=CAP_100uF_%20_25V_ALUM_SMD
+Change component parameters: Designator = "C47" ("C47"); Footprint = "CAPAE110103X127M"; UniqueID = "\MMYUDIVV" ("\MMYUDIVV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BLA25VC100MF80TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "230mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C51" ("C51"); Footprint = "CAPAE110103X127M"; UniqueID = "\GKYGVZQU" ("\GKYGVZQU")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BLA25VC100MF80TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "230mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C55" ("C55"); Footprint = "RADIAL-2_8MMX10MM"; UniqueID = "\DSOUULXY" ("\DSOUULXY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BLA25VC100MF80TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "230mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C56" ("C56"); Footprint = "RADIAL-2_8MMX10MM"; UniqueID = "\YBULNVCF" ("\YBULNVCF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BLA25VC100MF80TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "230mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C57" ("C57"); Footprint = "RADIAL-2_8MMX10MM"; UniqueID = "\NCQLSGGX" ("\NCQLSGGX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BLA25VC100MF80TP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "230mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"

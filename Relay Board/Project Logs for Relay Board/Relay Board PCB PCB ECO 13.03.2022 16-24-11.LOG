@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Change Component Library : Designator=J1 Old Library=Main Component Library.IntLib New Library=Main Schematic Library.SchLib
+Change Component Library : Designator=J2 Old Library=Main Component Library.IntLib New Library=Main Schematic Library.SchLib
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=VBAT+ Pin=J1-2
+Added Pin To Net: NetName=VBAT+ Pin=J3-1
+Added Pin To Net: NetName=VBAT+ Pin=K1-30
+Added Net: Name=VBAT+
+Added Pin To Net: NetName=VBAT- Pin=J2-2
+Added Pin To Net: NetName=VBAT- Pin=K1-87
+Added Net: Name=VBAT-
+Added Room: Name=Relay Board Schematic

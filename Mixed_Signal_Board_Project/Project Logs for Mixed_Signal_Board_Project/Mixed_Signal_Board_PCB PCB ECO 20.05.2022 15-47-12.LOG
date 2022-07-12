@@ -1,0 +1,97 @@
+Removed Member From Class: ClassName=Motor Driver Member=J21
+Removed Member From Class: ClassName=ADC Member=R29
+Removed Member From Class: ClassName=ADC Member=R30
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Change Component Designator: OldDesignator=D9 NewDesignator=D10
+Change Component Designator: OldDesignator=D10 NewDesignator=D11
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=D13 NewDesignator=D7
+Change Component Designator: OldDesignator=FB2 NewDesignator=FB1
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J6 NewDesignator=J8
+Change Component Designator: OldDesignator=J7 NewDesignator=J10
+Change Component Designator: OldDesignator=J8 NewDesignator=J11
+Change Component Designator: OldDesignator=J9 NewDesignator=J12
+Change Component Designator: OldDesignator=J10 NewDesignator=J14
+Change Component Designator: OldDesignator=J11 NewDesignator=J15
+Change Component Designator: OldDesignator=J12 NewDesignator=J16
+Change Component Designator: OldDesignator=J13 NewDesignator=J17
+Change Component Designator: OldDesignator=J16 NewDesignator=J19
+Change Component Designator: OldDesignator=J17 NewDesignator=J20
+Change Component Designator: OldDesignator=J18 NewDesignator=J21
+Change Component Designator: OldDesignator=J19 NewDesignator=J22
+Change Component Designator: OldDesignator=J20 NewDesignator=J23
+Change Component Designator: OldDesignator=J21 NewDesignator=J9
+Change Component Designator: OldDesignator=J22 NewDesignator=J13
+Change Component Designator: OldDesignator=J23 NewDesignator=J24
+Change Component Designator: OldDesignator=J24 NewDesignator=J2
+Change Component Designator: OldDesignator=J25 NewDesignator=J3
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R23
+Change Component Designator: OldDesignator=R20 NewDesignator=R24
+Change Component Designator: OldDesignator=R21 NewDesignator=R25
+Change Component Designator: OldDesignator=R22 NewDesignator=R26
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R28
+Change Component Designator: OldDesignator=R25 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Change Component Designator: OldDesignator=R27 NewDesignator=R31
+Change Component Designator: OldDesignator=R28 NewDesignator=R32
+Change Component Designator: OldDesignator=R29 NewDesignator=R13
+Change Component Designator: OldDesignator=R30 NewDesignator=R14
+Change Component Designator: OldDesignator=R31 NewDesignator=R33
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R33 NewDesignator=R21
+Change Component Designator: OldDesignator=R34 NewDesignator=R22
+Add Component: Footprint Not Found DIP_1X10_HEADER_2.54_PITCH
+Add Pin To Net: Unknown Pin: Pin J18-1
+Add Pin To Net: Unknown Pin: Pin J18-2
+Add Pin To Net: Unknown Pin: Pin J18-3
+Add Pin To Net: Unknown Pin: Pin J18-4
+Add Pin To Net: Unknown Pin: Pin J18-5
+Add Pin To Net: Unknown Pin: Pin J18-6
+Add Pin To Net: Unknown Pin: Pin J18-7
+Add Pin To Net: Unknown Pin: Pin J18-8
+Add Pin To Net: Unknown Pin: Pin J18-9
+Add Pin To Net: Unknown Pin: Pin J18-10
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetJ15_1
+Change Net Name : Old Net Name=NetJ11_2 New Net Name=NetJ15_2
+Change Net Name : Old Net Name=NetJ11_3 New Net Name=NetJ15_3
+Change Net Name : Old Net Name=NetJ11_4 New Net Name=NetJ15_4
+Change Net Name : Old Net Name=NetJ11_5 New Net Name=NetJ15_5
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=NetJ17_1
+Change Net Name : Old Net Name=NetJ13_2 New Net Name=NetJ17_2
+Change Net Name : Old Net Name=NetJ13_3 New Net Name=NetJ17_3
+Change Net Name : Old Net Name=NetJ13_4 New Net Name=NetJ17_4
+Change Net Name : Old Net Name=NetJ13_5 New Net Name=NetJ17_5
+Change Net Name : Old Net Name=NetJ16_1 New Net Name=NetJ19_1
+Change Net Name : Old Net Name=NetJ16_3 New Net Name=NetJ19_3
+Change Net Name : Old Net Name=NetJ17_1 New Net Name=NetJ20_1
+Change Net Name : Old Net Name=NetJ17_3 New Net Name=NetJ20_3
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR33_1
+Added Member To Class: ClassName=Motor Driver Member=Component J12 CONN_1X2_Terminal Block
+Add Class Member: Failed to add class member : Component J18 1x10-Male Header
+Added Member To Class: ClassName=ADC Member=Component R20 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R23 RES_1K OHM_1%_0805_1/8W

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=CH340_USB_P Pin=D11-1
+Removed Pin From Net: NetName=CH340_USB_N Pin=D11-2
+Removed Pin From Net: NetName=USB_FS_P Pin=D12-1
+Removed Pin From Net: NetName=USB_FS_N Pin=D12-2
+Added Component: Designator=D13(SOT170P237X110-3N)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-236-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TVS Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "7.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mccsemi.com/up_pdf/ESD3V3AP(SOT-23).pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mccsemi.com/up_pdf/ESD3V3AP(SOT-23).pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.mccsemi.com/pdf/Products/ESD3V3AP(SOT-23).pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mccsemi.com/pdf/Products/ESD3V3AP(SOT-23).pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESD3V3AP-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Unidirectional Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current"; Value = "13.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Line Protection"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,35000, 10=0,26400, 100=0,14950, 500=0,09900, 1000=0,07590 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Standoff Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ESD3V3AP-TPMSCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CH340_USB_N Pin=D11-1
+Added Pin To Net: NetName=CH340_USB_P Pin=D11-2
+Added Pin To Net: NetName=USB_FS_N Pin=D12-1
+Added Pin To Net: NetName=USB_FS_P Pin=D12-2
+Added Pin To Net: NetName=STLINK_USB_D_N Pin=D13-1
+Added Pin To Net: NetName=STLINK_USB_D_P Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D13-3
+Added Member To Class: ClassName=STM32F103 MCU Member=Component D13 DIODE_TVS_3.3VWM_8VC_SOT23

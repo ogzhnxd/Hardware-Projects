@@ -1,0 +1,164 @@
+Removed Member From Class: ClassName=DAC_OUT Member=3V3
+Added Component: Designator=J14(DIP_2X25_MALE_HEADER_2.54_PITCH)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ftp://ftp.samtec.com/webfiles/PDF/SSQ_TH.PDF?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "ftp://ftp.samtec.com/webfiles/PDF/SSQ_TH.PDF?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-97291133.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-97291133.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com/97291134/technical_drawing/Samtec-SSQ-125-23-G-D.pdf?src-supplier=Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com/97291134/technical_drawing/Samtec-SSQ-125-23-G-D.pdf?src-supplier=Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-150873487.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-150873487.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-118235309.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-118235309.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-86818373.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-86818373.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "64.01mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SSQ-125-23-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "7.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "550V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=14,32000, 10=12,69400, 100=11,06700, 500=9,43950, 1000=8,68000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SSQ-125-23-G-D-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J15(DIP_2X25_MALE_HEADER_2.54_PITCH)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ftp://ftp.samtec.com/webfiles/PDF/SSQ_TH.PDF?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "ftp://ftp.samtec.com/webfiles/PDF/SSQ_TH.PDF?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-97291133.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-97291133.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com/97291134/technical_drawing/Samtec-SSQ-125-23-G-D.pdf?src-supplier=Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com/97291134/technical_drawing/Samtec-SSQ-125-23-G-D.pdf?src-supplier=Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-150873487.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-150873487.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-118235309.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-118235309.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-86818373.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com/SSQ-125-23-G-D-Samtec-datasheet-86818373.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "64.01mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SSQ-125-23-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "7.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "550V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=14,32000, 10=12,69400, 100=11,06700, 500=9,43950, 1000=8,68000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SSQ-125-23-G-D-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=VIN Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-3
+Added Pin To Net: NetName=PC3 Pin=J14-5
+Added Pin To Net: NetName=PA3 Pin=J14-7
+Added Pin To Net: NetName=SD_SCK Pin=J14-8
+Added Pin To Net: NetName=PB1 Pin=J14-11
+Added Pin To Net: NetName=GND Pin=J14-12
+Added Pin To Net: NetName=PE7 Pin=J14-13
+Added Pin To Net: NetName=DRV1_AIN1 Pin=J14-14
+Added Pin To Net: NetName=DRV1_AIN2 Pin=J14-15
+Added Pin To Net: NetName=DRV1_BIN1 Pin=J14-16
+Added Pin To Net: NetName=DRV1_SLEEP Pin=J14-17
+Added Pin To Net: NetName=PB15 Pin=J14-20
+Added Pin To Net: NetName=CH340_RXD Pin=J14-21
+Added Pin To Net: NetName=DRV2_SLEEP Pin=J14-22
+Added Pin To Net: NetName=DRV2_AIN2 Pin=J14-23
+Added Pin To Net: NetName=DRV2_BIN2 Pin=J14-24
+Added Pin To Net: NetName=GND Pin=J14-25
+Added Pin To Net: NetName=GND Pin=J14-26
+Added Pin To Net: NetName=DRV2_BIN1 Pin=J14-28
+Added Pin To Net: NetName=DRV2_AIN1 Pin=J14-29
+Added Pin To Net: NetName=PD10 Pin=J14-30
+Added Pin To Net: NetName=CH340_TXD Pin=J14-31
+Added Pin To Net: NetName=PB14 Pin=J14-32
+Added Pin To Net: NetName=MIC_CLK Pin=J14-34
+Added Pin To Net: NetName=DRV1_BIN2 Pin=J14-35
+Added Pin To Net: NetName=PE12 Pin=J14-36
+Added Pin To Net: NetName=PE10 Pin=J14-37
+Added Pin To Net: NetName=PE8 Pin=J14-38
+Added Pin To Net: NetName=F407_BOOT1 Pin=J14-39
+Added Pin To Net: NetName=PB0 Pin=J14-40
+Added Pin To Net: NetName=PA6 Pin=J14-42
+Added Pin To Net: NetName=PA4 Pin=J14-43
+Added Pin To Net: NetName=PA0 Pin=J14-45
+Added Pin To Net: NetName=MIC_DOUT Pin=J14-46
+Added Pin To Net: NetName=PC0 Pin=J14-47
+Added Pin To Net: NetName=T_NRST Pin=J14-48
+Added Pin To Net: NetName=VIN Pin=J14-49
+Added Pin To Net: NetName=GND Pin=J14-50
+Added Pin To Net: NetName=GND Pin=J15-1
+Added Pin To Net: NetName=5V Pin=J15-2
+Added Pin To Net: NetName=3V3 Pin=J15-3
+Added Pin To Net: NetName=PC14 Pin=J15-5
+Added Pin To Net: NetName=PE6 Pin=J15-6
+Added Pin To Net: NetName=LED_RED Pin=J15-7
+Added Pin To Net: NetName=LED_BLUE Pin=J15-8
+Added Pin To Net: NetName=F407_USR_BTN Pin=J15-9
+Added Pin To Net: NetName=DAC_SCL Pin=J15-10
+Added Pin To Net: NetName=F407_BOOT0 Pin=J15-11
+Added Pin To Net: NetName=SD_CS Pin=J15-12
+Added Pin To Net: NetName=SD_MISO Pin=J15-13
+Added Pin To Net: NetName=ADC_TEMP_EN Pin=J15-14
+Added Pin To Net: NetName=PD5 Pin=J15-15
+Added Pin To Net: NetName=ADC_MUX Pin=J15-16
+Added Pin To Net: NetName=CAN_TX Pin=J15-17
+Added Pin To Net: NetName=DAC_SDIN Pin=J15-18
+Added Pin To Net: NetName=DAC_SCLK Pin=J15-19
+Added Pin To Net: NetName=STLINK_RX Pin=J15-21
+Added Pin To Net: NetName=IMU_SCL/ADC_SCLK Pin=J15-22
+Added Pin To Net: NetName=IMU_INT Pin=J15-23
+Added Pin To Net: NetName=PC6 Pin=J15-24
+Added Pin To Net: NetName=GND Pin=J15-25
+Added Pin To Net: NetName=GND Pin=J15-26
+Added Pin To Net: NetName=DAC_MCLK Pin=J15-27
+Added Pin To Net: NetName=IMU_SDA/ADC_DOUT Pin=J15-28
+Added Pin To Net: NetName=STLINK_TX Pin=J15-29
+Added Pin To Net: NetName=DAC_LCLK Pin=J15-31
+Added Pin To Net: NetName=PC11 Pin=J15-32
+Added Pin To Net: NetName=CAN_RX Pin=J15-33
+Added Pin To Net: NetName=ADC_CLK Pin=J15-34
+Added Pin To Net: NetName=DAC_RESET Pin=J15-35
+Added Pin To Net: NetName=ADC_BUFF_EN Pin=J15-36
+Added Pin To Net: NetName=SD_MOSI Pin=J15-38
+Added Pin To Net: NetName=PB7 Pin=J15-39
+Added Pin To Net: NetName=VIN Pin=J15-40
+Added Pin To Net: NetName=DAC_SCL Pin=J15-41
+Added Pin To Net: NetName=PE1 Pin=J15-42
+Added Pin To Net: NetName=LED_GREEN Pin=J15-43
+Added Pin To Net: NetName=LED_YELLOW Pin=J15-44
+Added Pin To Net: NetName=PC13 Pin=J15-45
+Added Pin To Net: NetName=PC15 Pin=J15-46
+Added Pin To Net: NetName=3V3 Pin=J15-48
+Added Pin To Net: NetName=5V Pin=J15-49
+Added Pin To Net: NetName=GND Pin=J15-50
+Added Member To Class: ClassName=STM32F407 MCU Member=Component J14 2X25
+Added Member To Class: ClassName=STM32F407 MCU Member=Component J15 2X25

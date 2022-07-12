@@ -1,0 +1,18 @@
+Added Component: Designator=J2(DIP_2X3_MALE_HEADER_2.54_PITCH)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/67996.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/67996.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://portal.fciconnect.com/Comergent/fci/drawing/67996.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://portal.fciconnect.com/Comergent/fci/drawing/67996.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC / FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "67998-206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "4800=0,21933, 5600=0,21344, 10400=0,20314, 24000=0,19578, 48000=0,18989, 240000=0,18400, 480000=0,17958 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "67998-206"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_MISO Pin=J2-1
+Added Pin To Net: NetName=MCU_SCK Pin=J2-2
+Added Pin To Net: NetName=MCU_RST Pin=J2-3
+Added Pin To Net: NetName=5V Pin=J2-4
+Added Pin To Net: NetName=MCU_MOSI Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Member To Class: ClassName=3 Phase ESC Member=Component J2 2x3 Male HDR

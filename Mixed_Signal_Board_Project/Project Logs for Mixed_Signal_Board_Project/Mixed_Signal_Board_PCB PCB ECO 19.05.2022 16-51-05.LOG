@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R71-1
+Removed Member From Class: ClassName=IMU-SD Card-CAN-CH340 Member=R71
+Added Pin To Net: NetName=GND Pin=U14-1
+Added Pin To Net: NetName=GND Pin=U14-9
+Added Pin To Net: NetName=GND Pin=U14-11
+Change Net Name : Old Net Name=GND New Net Name=IMU_AD0

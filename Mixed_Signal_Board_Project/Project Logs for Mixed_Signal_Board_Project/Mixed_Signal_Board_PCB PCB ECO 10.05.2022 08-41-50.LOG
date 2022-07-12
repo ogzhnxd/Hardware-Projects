@@ -1,0 +1,6 @@
+Added Class: Name=ADC_IN
+Added Class: Name=ADC_OUT
+Added Class: Name=DAC_OUT
+Added Class: Name=RMII
+Added Class: Name=STLINKV2
+Added Class: Name=STM_IO

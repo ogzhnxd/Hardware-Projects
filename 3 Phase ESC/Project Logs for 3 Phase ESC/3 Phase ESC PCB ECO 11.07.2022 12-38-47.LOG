@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=D1-1
+Removed Pin From Net: NetName=VIN Pin=D1-2
+Change Component Footprint: Designator=D1 Old Footprint=DIOM5226X220N_D1FH3/5053 New Footprint=DPAK275P1410X480-3N
+Change Component Comment : Designator=D1 Old Comment=D1FH3/5053 New Comment=Diode 45V/40A
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIOM5226X220N_D1FH3/5053"; UniqueID = "\JBVOSJPY" ("\JBVOSJPY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panjit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SBM4045LDC_R2_00001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1,48000, 10=1,34000, 50=1,34000, 100=1,04000, 1000=0,67700, 10000=0,63100 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "241-SBM4045LDCR20000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D1-1
+Added Pin To Net: NetName=VIN Pin=D1-3
+Added Pin To Net: NetName=VCC Pin=D1-4

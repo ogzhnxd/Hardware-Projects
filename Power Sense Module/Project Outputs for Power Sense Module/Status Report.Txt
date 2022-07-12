@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Power Sense Module.PrjPcb]
+   Generated File[Power Sense Module PCB-RoundHoles.TXT]
+   Generated File[Power Sense Module PCB-SlotHoles.TXT]
+   Generated File[Power Sense Module PCB.LDP]
+   Generated File[Power Sense Module PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:20:54 On 5.08.2021

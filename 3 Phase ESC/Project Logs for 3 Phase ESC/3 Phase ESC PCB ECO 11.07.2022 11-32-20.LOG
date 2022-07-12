@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Member From Class: ClassName=3 Phase ESC Member=J1
+Added Pin To Net: NetName=VIN Pin=Q1-4
+Added Pin To Net: NetName=VIN Pin=Q3-4
+Added Pin To Net: NetName=VIN Pin=Q5-4
+Change Net Name : Old Net Name=VIN New Net Name=VCC
+Added Pin To Net: NetName=VIN Pin=D1-2
+Added Net: Name=VIN

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=FB1-1
+Removed Member From Class: ClassName=Ethernet PHY Member=FB1
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C4-2

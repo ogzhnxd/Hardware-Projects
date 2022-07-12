@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DAC_SCL Pin=R23-1
+Added Pin To Net: NetName=DAC_SDA Pin=R23-1

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetJ1_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ1_1 Pin=K1-87
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=VBAT
+Added Room: Name=Relay Board Schematic

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DAC_SCL Pin=J15-41
+Removed Pin From Net: NetName=DAC_SCL Pin=R23-1
+Removed Pin From Net: NetName=DAC_SCL Pin=U4-1
+Removed Pin From Net: NetName=DAC_SCL Pin=U12-96
+Added Pin To Net: NetName=DAC_SDA Pin=J15-41
+Added Pin To Net: NetName=DAC_SDA Pin=R23-1
+Added Pin To Net: NetName=DAC_SDA Pin=U4-1
+Added Pin To Net: NetName=DAC_SDA Pin=U12-96
+Added Net: Name=DAC_SDA
+Added Member To Class: ClassName=DAC_OUT Member=Wire DAC_SDA
+Added Member To Class: ClassName=STM_IO Member=Wire DAC_SDA

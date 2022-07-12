@@ -1,0 +1,4 @@
+Add Pin To Net: Unknown Pin: Pin J20-SH1
+Add Pin To Net: Unknown Pin: Pin J20-SH2
+Added Member To Class: ClassName=IMU-SD Card-CAN-CH340 Member=Component J20 CONN_SD CARD_L-KLS1-SD-001
+Added Member To Class: ClassName=Ethernet PHY Member=Component R9 RES_2.2K OHM_1%_0805_1/8W

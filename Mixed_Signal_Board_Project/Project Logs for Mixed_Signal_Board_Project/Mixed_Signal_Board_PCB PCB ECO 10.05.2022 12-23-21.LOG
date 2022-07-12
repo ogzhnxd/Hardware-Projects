@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CAN_N Pin=J?-1
+Removed Pin From Net: NetName=CAN_P Pin=J?-2
+Removed Member From Class: ClassName=IMU-SD Card-CAN-CH340 Member=J1
+Added Pin To Net: NetName=CAN_P Pin=J?-1
+Added Pin To Net: NetName=CAN_N Pin=J?-2
+Added Member To Class: ClassName=IMU-SD Card-CAN-CH340 Member=Component J? CONN_1X2_Terminal Block

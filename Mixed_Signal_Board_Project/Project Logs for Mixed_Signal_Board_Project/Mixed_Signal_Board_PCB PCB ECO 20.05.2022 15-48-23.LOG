@@ -1,0 +1,96 @@
+Removed Member From Class: ClassName=IMU-SD Card-CAN-CH340 Member=D7
+Removed Member From Class: ClassName=STM32F407 MCU Member=D12
+Removed Member From Class: ClassName=IMU-SD Card-CAN-CH340 Member=J2
+Removed Member From Class: ClassName=IMU-SD Card-CAN-CH340 Member=J9
+Removed Member From Class: ClassName=ADC Member=J10
+Removed Member From Class: ClassName=DAC and MIC Member=J10
+Removed Member From Class: ClassName=DAC and MIC Member=J15
+Removed Member From Class: ClassName=Motor Driver Member=J15
+Removed Member From Class: ClassName=Motor Driver Member=J20
+Removed Member From Class: ClassName=STM32F103 MCU Member=J20
+Removed Member From Class: ClassName=Motor Driver Member=J22
+Removed Member From Class: ClassName=STM32F103 MCU Member=J22
+Removed Member From Class: ClassName=STM32F407 MCU Member=J22
+Removed Member From Class: ClassName=DAC and MIC Member=R13
+Removed Member From Class: ClassName=DAC and MIC Member=R21
+Removed Member From Class: ClassName=Motor Driver Member=R21
+Removed Member From Class: ClassName=ADC Member=R30
+Removed Member From Class: ClassName=ADC Member=R34
+Removed Member From Class: ClassName=DAC and MIC Member=R34
+Added Component: Designator=J18(DIP_1X10_FEMALE_HEADER_2.54_PITCH)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Female Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "25.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC101LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,65000, 10=0,55100, 320=0,45000, 640=0,40500, 960=0,36000, 5120=0,32500 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "16929"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7008-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J18-1
+Added Pin To Net: NetName=3V3 Pin=J18-2
+Added Pin To Net: NetName=GND Pin=J18-3
+Added Pin To Net: NetName=PE12 Pin=J18-4
+Added Pin To Net: NetName=PE10 Pin=J18-5
+Added Pin To Net: NetName=PE8 Pin=J18-6
+Added Pin To Net: NetName=PE7 Pin=J18-7
+Added Pin To Net: NetName=PB1 Pin=J18-8
+Added Pin To Net: NetName=PB0 Pin=J18-9
+Added Pin To Net: NetName=PE6 Pin=J18-10
+Added Member To Class: ClassName=STM32F407 MCU Member=Component D9 Green
+Added Member To Class: ClassName=STM32F407 MCU Member=Component D11 Yellow
+Added Member To Class: ClassName=IMU-SD Card-CAN-CH340 Member=Component D13 DIODE_TVS_3.3VWM_8VC_SOT23
+Added Member To Class: ClassName=ADC Member=Component J3 CONN_1X2_Terminal Block
+Added Member To Class: ClassName=DAC and MIC Member=Component J4 SJ-43515TS
+Added Member To Class: ClassName=DAC and MIC Member=Component J5 CONN_1X4_2.54mm_Male Header
+Added Member To Class: ClassName=Motor Driver Member=Component J6 CONN_1X2_Terminal Block
+Added Member To Class: ClassName=Motor Driver Member=Component J7 CONN_1X2_Terminal Block
+Added Member To Class: ClassName=Motor Driver Member=Component J8 CONN_1X2_Terminal Block
+Added Member To Class: ClassName=Motor Driver Member=Component J9 CONN_1X3_2.54mm_Male Header
+Added Member To Class: ClassName=Motor Driver Member=Component J11 CONN_1X2_Terminal Block
+Added Member To Class: ClassName=Motor Driver Member=Component J13 CONN_1X3_2.54mm_Male Header
+Added Member To Class: ClassName=STM32F103 MCU Member=Component J16 CONN_RCPT_USB-TYPE A_A1HSW6
+Added Member To Class: ClassName=STM32F103 MCU Member=Component J17 CONN_1X6_2.54m_Male Header
+Added Member To Class: ClassName=STM32F407 MCU Member=Component J18 1x10-Male Header
+Added Member To Class: ClassName=STM32F407 MCU Member=Component J19 CONN_1X3_2.54mm_Male Header
+Added Member To Class: ClassName=IMU-SD Card-CAN-CH340 Member=Component J21 Micro USB2.0
+Added Member To Class: ClassName=IMU-SD Card-CAN-CH340 Member=Component J23 CONN_SD CARD_L-KLS1-SD-001
+Added Member To Class: ClassName=IMU-SD Card-CAN-CH340 Member=Component J24 CONN_1X2_Terminal Block
+Added Member To Class: ClassName=ADC Member=Component R13 RES_301 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R14 RES_301 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R15 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R16 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R17 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R18 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R19 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R20 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R22 RES_301 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=ADC Member=Component R23 RES_1K OHM_1%_0805_1/8W
+Added Member To Class: ClassName=DAC and MIC Member=Component R24 RES_51.1 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=DAC and MIC Member=Component R25 RES_51.1 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=DAC and MIC Member=Component R26 RES_2K OHM_1%_0805_1/8W_SMD
+Added Member To Class: ClassName=DAC and MIC Member=Component R27 RES_2K OHM_1%_0805_1/8W_SMD
+Added Member To Class: ClassName=DAC and MIC Member=Component R28 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=DAC and MIC Member=Component R29 100kR
+Added Member To Class: ClassName=DAC and MIC Member=Component R31 RES_100 OHM_1%_0805_1/8W
+Added Member To Class: ClassName=DAC and MIC Member=Component R32 1.2kR
+Added Member To Class: ClassName=Motor Driver Member=Component R33 10k Ohms

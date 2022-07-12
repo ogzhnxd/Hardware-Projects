@@ -1,0 +1,62 @@
+Added Component: Designator=U1(QFN50P500X500X100_HS-33N)
+Add component (AddParameter): Name = "Case/Package"; Value = "VQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Voltage Regulators - Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/gpn/tps65265?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/gpn/tps65265?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/ds/symlink/tps65265.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tps65265.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS65265RHBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "600mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3,40000, 10=3,05300, 25=2,88600, 100=2,50110, 250=2,37280, 500=2,12912, 1000=2,11750 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-TPS65265RHBRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "2.3MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V7V Pin=U1-1
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-3
+Added Pin To Net: NetName=NetJ6_2 Pin=U1-4
+Added Pin To Net: NetName=NetJ7_2 Pin=U1-5
+Added Pin To Net: NetName=NetR6_2 Pin=U1-6
+Added Pin To Net: NetName=COMP2 Pin=U1-7
+Added Pin To Net: NetName=NetJ8_2 Pin=U1-8
+Added Pin To Net: NetName=BST2 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=LX2 Pin=U1-11
+Added Pin To Net: NetName=+12 Pin=U1-12
+Added Pin To Net: NetName=+12 Pin=U1-13
+Added Pin To Net: NetName=LX3 Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=BST3 Pin=U1-16
+Added Pin To Net: NetName=SEQ_DLY Pin=U1-17
+Added Pin To Net: NetName=COMP3 Pin=U1-18
+Added Pin To Net: NetName=NetR13_2 Pin=U1-19
+Added Pin To Net: NetName=ROSC Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=NetR2_2 Pin=U1-22
+Added Pin To Net: NetName=COMP1 Pin=U1-23
+Added Pin To Net: NetName=PG_DLY Pin=U1-24
+Added Pin To Net: NetName=BST1 Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=LX1 Pin=U1-28
+Added Pin To Net: NetName=LX1 Pin=U1-29
+Added Pin To Net: NetName=+12 Pin=U1-30
+Added Pin To Net: NetName=+12 Pin=U1-31
+Added Pin To Net: NetName=PSM Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Member To Class: ClassName=3 Channel Buck Converter Schematic Member=Component U1 PMIC_TPS65265

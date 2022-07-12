@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=DAC and MIC.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Ethernet PHY.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Motor Driver.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power Input and Buck Convertors.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=STM32F103 MCU.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=STM32F407 MCU.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=IMU-SD Card-CAN-CH340.SchDoc|SheetNumber=9

@@ -1,0 +1,28 @@
+Added Component: Designator=MH1(MOUNTING_HOLE)
+Added Component: Designator=MH2(MOUNTING_HOLE)
+Added Component: Designator=MH3(MOUNTING_HOLE)
+Added Component: Designator=MH4(MOUNTING_HOLE)
+Added Component: Designator=P1(POWER_SOLDER_PAD)
+Added Component: Designator=P2(POWER_SOLDER_PAD)
+Added Component: Designator=P3(POWER_SOLDER_PAD)
+Added Component: Designator=P4(POWER_SOLDER_PAD)
+Added Component: Designator=P5(POWER_SOLDER_PAD)
+Added Pin To Net: NetName=VIN Pin=P1-1
+Added Pin To Net: NetName=VIN Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=PHASE_1 Pin=P3-1
+Added Pin To Net: NetName=PHASE_1 Pin=P3-1
+Added Pin To Net: NetName=PHASE_2 Pin=P4-1
+Added Pin To Net: NetName=PHASE_2 Pin=P4-1
+Added Pin To Net: NetName=PHASE_3 Pin=P5-1
+Added Pin To Net: NetName=PHASE_3 Pin=P5-1
+Added Member To Class: ClassName=3 Phase ESC Member=Component MH1 Mounting Hole
+Added Member To Class: ClassName=3 Phase ESC Member=Component MH2 Mounting Hole
+Added Member To Class: ClassName=3 Phase ESC Member=Component MH3 Mounting Hole
+Added Member To Class: ClassName=3 Phase ESC Member=Component MH4 Mounting Hole
+Added Member To Class: ClassName=3 Phase ESC Member=Component P1 Power Pad
+Added Member To Class: ClassName=3 Phase ESC Member=Component P2 Power Pad
+Added Member To Class: ClassName=3 Phase ESC Member=Component P3 Power Pad
+Added Member To Class: ClassName=3 Phase ESC Member=Component P4 Power Pad
+Added Member To Class: ClassName=3 Phase ESC Member=Component P5 Power Pad

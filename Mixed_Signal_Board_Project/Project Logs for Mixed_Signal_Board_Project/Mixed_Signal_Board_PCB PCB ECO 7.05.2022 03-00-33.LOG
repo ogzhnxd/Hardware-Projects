@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=FB1-1
+Removed Pin From Net: NetName=GND Pin=J1-8
+Change Component Footprint: Designator=J1 Old Footprint=ARJM11D7-009-AB-ER2-T New Footprint=ARJM11C7-114-BA-EW2_ABR
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Added Component: Designator=J20(SD CARD L-KLS1-TF-003)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (Commercial Products)'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "101003136802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RD_N Pin=D1-1
+Added Pin To Net: NetName=RD_P Pin=D1-2
+Added Pin To Net: NetName=TD_N Pin=D2-1
+Added Pin To Net: NetName=TD_P Pin=D2-2
+Added Pin To Net: NetName=3V3 Pin=FB1-1
+Added Pin To Net: NetName=NetC1_1 Pin=FB1-2
+Added Pin To Net: NetName=3V3 Pin=FB2-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=RD_N Pin=J1-3
+Added Pin To Net: NetName=RD_P Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=TD_N Pin=J1-8
+Added Pin To Net: NetName=3V3 Pin=J1-9
+Added Pin To Net: NetName=TD_P Pin=J1-10
+Added Pin To Net: NetName=LED_ACT Pin=J1-11
+Added Pin To Net: NetName=LED_LINK Pin=J1-13
+Added Pin To Net: NetName=SD_CS Pin=J20-1
+Added Pin To Net: NetName=SD_MOSI Pin=J20-2
+Added Pin To Net: NetName=GND Pin=J20-3
+Added Pin To Net: NetName=3V3 Pin=J20-4
+Added Pin To Net: NetName=SD_SCK Pin=J20-5
+Added Pin To Net: NetName=GND Pin=J20-6
+Added Pin To Net: NetName=SD_MISO Pin=J20-7
+Added Pin To Net: NetName=GND Pin=J20-SH1
+Added Pin To Net: NetName=GND Pin=J20-SH2
+Change Net Name : Old Net Name=-VHPFILT New Net Name=DAC_AD0
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_12 Pin=R10-2
+Added Net: Name=NetJ1_12
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-14
+Added Pin To Net: NetName=NetJ1_14 Pin=R8-1
+Added Net: Name=NetJ1_14
+Added Member To Class: ClassName=IMU-SD Card-CAN-CH340 Member=Component J20 CONN_SD CARD_L-KLS1-SD-001

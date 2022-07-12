@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DRV1_BOUT2 Pin=J6-1
+Removed Pin From Net: NetName=DRV1_BOUT1 Pin=J6-2
+Added Pin To Net: NetName=DRV1_BOUT1 Pin=J6-1
+Added Pin To Net: NetName=DRV1_BOUT2 Pin=J6-2

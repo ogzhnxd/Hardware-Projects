@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C1 Old Footprint=RADIAL-2_6.3MMX7.7MM New Footprint=RADIAL-2_10.00MMX10.00MM
+Change Component Footprint: Designator=C2 Old Footprint=RADIAL-2_6.3MMX7.7MM New Footprint=RADIAL-2_10.00MMX10.00MM
+Change Component Comment : Designator=C1 Old Comment=CAP_100uF_%20_25V_ALUM_SMD New Comment=BXJ63VC100MJ10TP
+Change Component Comment : Designator=C2 Old Comment=CAP_100uF_%20_25V_ALUM_SMD New Comment=BXJ63VC100MJ10TP
+Change component parameters: Designator = "C1" ("C1"); Footprint = "RADIAL-2_6.3MMX7.7MM"; UniqueID = "\SKDVUVES" ("\SKDVUVES")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensions"; Value = "10mmx10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "RADIAL-2_6.3MMX7.7MM"; UniqueID = "\GYMSQACI" ("\GYMSQACI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensions"; Value = "10mmx10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMYOUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"

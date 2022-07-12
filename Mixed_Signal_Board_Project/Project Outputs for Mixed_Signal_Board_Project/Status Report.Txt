@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [Mixed_Signal_Board_PCB.PcbDoc]
+   Generated File[Pick Place for Mixed_Signal_Board_PCB.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:42:14 On 23.05.2022
